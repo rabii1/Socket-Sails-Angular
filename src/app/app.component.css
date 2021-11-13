@@ -1,0 +1,10 @@
+.screen{
+
+    height:500px;
+    width: 50%;
+    overflow:auto;
+    border-radius: 5%;
+    background-color: black;
+    color:greenyellow;
+  
+}
